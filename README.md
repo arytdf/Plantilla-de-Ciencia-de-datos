@@ -1,2 +1,1 @@
-# Plantilla de Ciencia de datos
- Es solo una plantilla
+Aquí explicas de qué va el proyecto, cómo reproducirlo y qué contiene cada carpeta. Incluye instrucciones de instalación, cómo ejecutar los scripts principales y un resumen de los objetivos.
